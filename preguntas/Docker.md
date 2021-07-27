@@ -2,7 +2,7 @@
 
 # ¿Qué es Docker?
 
-Respuesta: Socker es un sistema de pequeñas máquinas virtuales, llamadas contenedores, que permite probar o ejecutar aplicaciones de manera rápida y sencilla. Estos contenedores se pueden configurar para que contengan todo lo necesario para la ejecución de un programa o aplicación específica, además de que este contenedor se puede mover a cualquier otro espacio con la certeza de que la aplicación va a funcionar. 
+Respuesta: Docker es un sistema de pequeñas máquinas virtuales, llamadas contenedores, que permite probar o ejecutar aplicaciones de manera rápida y sencilla. Estos contenedores se pueden configurar para que contengan todo lo necesario para la ejecución de un programa o aplicación específica, además de que este contenedor se puede mover a cualquier otro espacio con la certeza de que la aplicación va a funcionar. 
 
 # ¿Cuál es la imagen base de este devcontainer?
 
